@@ -1,0 +1,1 @@
+# Laravel Ajax Business Table
